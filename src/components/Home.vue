@@ -3,7 +3,7 @@
     <h1 class="display-2 text-start fw-normal"><span class="color-purple fw-bold">Hello,</span><br>I am <span class="fw-bold">Mihajlo Petrović.</span></h1>
     <h3 class="fs-3 text-start fw-bold color-purple">Backend Web Developer</h3>
     <p class="text-start fw-bold mt-90 w-600">
-      I am a backend developer with experience in building web applications. Currently, I’m working on launching 
+      I am a backend developer with a strong foundation in building web applications. Currently, I’m working on launching 
       NovaKeys, my first platform for purchasing digital goods, which will feature localized 
       payment options, multi language support, multiple display currencies, a referral code system and much more, solving key challenges in the local digital marketplace.
     </p>
