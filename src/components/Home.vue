@@ -1,5 +1,5 @@
 <template>
-  <div class="w-fc mx-auto mt-60">
+  <div class="w-fc mx-auto mt-90">
     <h1 class="display-2 text-start fw-normal"><span class="color-purple fw-bold">Hello,</span><br>I am <span class="fw-bold">Mihajlo Petrović.</span></h1>
     <h3 class="fs-3 text-start fw-bold color-purple">Backend Web Developer</h3>
     <p class="text-start fw-bold mt-90 w-600">
@@ -11,7 +11,7 @@
     <div class="mt-230 d-flex gap-4 mx-auto w-fc">
       <router-link to="/about-me" class="btn-primary">About Me</router-link>
       <router-link to="/projects" class="btn-primary">Projects</router-link>
-      <router-link to="/contact" class="btn-primary">Contact Me</router-link>
+      <router-link to="/contact-me" class="btn-primary">Contact Me</router-link>
     </div>
   </div>
 </template>
