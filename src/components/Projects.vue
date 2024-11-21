@@ -1,7 +1,7 @@
 <template>
     <HeaderBar />
     <main>
-        <section>
+        <section class="mb-140">
             <h3 class="fw-bold mt-90 mb-5">Projects</h3>
             <p class="fs-6 w-800 w-max-100 mx-auto">
                 Over the years, I’ve worked on a variety of projects that range from small, functional apps to more complex systems. 
@@ -18,8 +18,8 @@
             </p>
         </section>
 
-        <section>
-            <h3 class="fw-bold mt-120 mb-5">NovaKeys - A Full-Fledged Digital Marketplace</h3>
+        <section class="mb-140">
+            <h3 class="fw-bold mb-5">NovaKeys - A Full-Fledged Digital Marketplace</h3>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
                 <span class="color-purple">Seller Features:</span> Sellers can create products with detailed information, and then create listings for those products. This separation makes the process easier to manage and offers a more streamlined buying experience for customers.
             </p>
@@ -58,8 +58,8 @@
             </p>
         </section>
 
-        <section>
-            <h3 class="fw-bold mt-120 mb-5">Technologies Used - NovaKeys</h3>
+        <section class="mb-140">
+            <h3 class="fw-bold mb-5">Technologies Used - NovaKeys</h3>
             <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript</p>
             <p><span class="color-purple">Backend:</span> &nbsp; PHP, Laravel</p>
             <p><span class="color-purple">Database:</span> &nbsp; MySQL</p>

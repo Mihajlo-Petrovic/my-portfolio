@@ -122,6 +122,11 @@ export default {
 </script>
 
 <style scoped>
+label {
+    margin-left: 4px;
+    margin-bottom: 3px;
+}
+
 @media (max-width: 875px) {
     #name-container {
         width: 700px;

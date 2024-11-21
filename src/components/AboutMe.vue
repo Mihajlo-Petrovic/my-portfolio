@@ -2,7 +2,7 @@
     <HeaderBar />
     <div id="content">
         <main>
-            <section>
+            <section class="mb-140">
                 <h3 class="fw-bold mt-90 mb-5">Education</h3>
 
                 <p class="mb-1 fs-5">High School of Electrical Engineering "Rade Končar" (2020-2024)</p>
@@ -12,8 +12,8 @@
                 <p class="mt-1 fs-6 color-purple">Applied Information Technologies</p>
             </section>
 
-            <section>
-                <h3 class="fw-bold mt-90 mb-5">Skills</h3>
+            <section class="mb-140">
+                <h3 class="fw-bold mb-5">Skills</h3>
 
                 <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript, Vue.js, BootStrap</p>
                 <p><span class="color-purple">Backend:</span> &nbsp; PHP, Laravel, C#</p>
@@ -21,10 +21,10 @@
                 <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, Owasp ZAP</p>
             </section>
 
-            <section>
-                <h3 class="fw-bold mt-90 mb-5">More About Me</h3>
+            <section class="mb-140">
+                <h3 class="fw-bold mb-5">More About Me</h3>
 
-                <p class="fs-6 mb-5 w-800 w-max-100 mx-auto">
+                <p class="fs-6 w-800 w-max-100 mx-auto">
                     I am a passionate and driven backend developer currently pursuing a degree in Applied Information Technologies at MEF University. 
                     I began my journey into development at a young age, learning through self-driven projects and academic coursework. 
                     My education at the High School of Electrical Engineering "Rade Končar" laid the foundation for my knowledge of information technologies, 
