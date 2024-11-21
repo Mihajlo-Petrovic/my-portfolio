@@ -20,20 +20,21 @@ export default {
     background-color: #462e9e;
     height: 70px;
     display: flex;
+    width: 100%;
 }
 
 #links-container {
     display: flex;
     width: fit-content;
     margin-inline: auto;
-    margin-top: 19px;
+    margin-top: 22px;
     gap: 40px;
 }
 
 .header-item {
     color: #f3f3fd;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 100%;
     font-weight: 500;
     user-select: none;
 }
@@ -45,5 +46,16 @@ export default {
 
 .router-link-active {
     color: #b7a7ff;
+}
+
+@media (max-width: 450px) {
+    .header-item {
+        font-size: 14px;
+    }
+
+    #links-container {
+        gap: 30px;
+        margin-top: 24px;
+    }
 }
 </style>
