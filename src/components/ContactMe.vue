@@ -20,7 +20,7 @@
                 <textarea class="form-control w-700 w-max-100 h-min-150 h-max-600 h-300" id="message" v-model="form.message" required></textarea>
             </div>
 
-            <button class="mx-auto btn-purple mt-5 pt-0 border-0 mb-300" type="submit">Send</button>
+            <button class="mx-auto btn-purple mt-5 pt-0 border-0 mb-300 fw-bold" type="submit">Send</button>
         </form>
 
         <p class="w-700 w-max-100 mx-auto mt-120">You can also contact me trough my personal email directly: <span class="color-purple">petrovicmihajlo789@gmail.com</span>, or if you have business inquires about NovaKeys: <span class="color-purple">business@novakeys.net</span></p>
@@ -29,8 +29,10 @@
 </template>
 
 <script>
+import { createApp } from "vue";
 import HeaderBar from './Header.vue';
 import FooterBar from './Footer.vue';
+import AlertBox from './AlertBox.vue';
 
 export default {
     name: 'ContactMe',
@@ -50,6 +52,9 @@ export default {
     methods: {
         async submitForm() {
             const url = "https://formspree.io/f/xqaklygw";
+            const mainElement = document.querySelector('main');
+            const alertContainer = document.createElement('div');
+            mainElement.prepend(alertContainer);
 
             try {
                 const response = await fetch(url, {
@@ -58,16 +63,60 @@ export default {
                 body: JSON.stringify(this.form),
                 });
 
-                if (response.ok) {
-                    alert("Form submitted successfully!");
-                } else {
-                    alert("Failed to submit the form.");
+                const existingAlert = mainElement.querySelector('.alert-box');
+                if(existingAlert) {
+                    existingAlert.remove();
                 }
-            } catch (error) {
+
+                if(response.ok) {
+                    const alertInstance = createApp(AlertBox, {
+                        text: "Form submitted successfully!",
+                        isSuccess: true,
+                    });
+
+                    alertInstance.mount(alertContainer);
+
+                    this.clearInputs();
+                } 
+                else {
+                    const alertInstance = createApp(AlertBox, {
+                        text: "Failed to submit the form.",
+                        isSuccess: false,
+                    });
+
+                    alertInstance.mount(alertContainer);
+
+                    this.clearInputs();
+                }
+            } 
+            catch(error) {
                 console.error("Error:", error);
-                alert("An error occurred.");
+                const alertInstance = createApp(AlertBox, {
+                    text: "Failed to submit the form.",
+                    isSuccess: false,
+                });
+
+                const existingAlert = mainElement.querySelector('.alert-box');
+                if(existingAlert) {
+                    existingAlert.remove();
+                }
+
+                alertInstance.mount(alertContainer);
+
+                this.clearInputs();
             }
         },
+
+        async clearInputs() {
+            const inputFields = document.querySelectorAll('input');
+            const textArea = document.querySelector('textarea');
+
+            inputFields.forEach(inputField => {
+                inputField.value = "";
+            })
+
+            textArea.value = "";
+        }
     },
 };
 </script>
