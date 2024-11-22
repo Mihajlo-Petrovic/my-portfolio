@@ -3,7 +3,7 @@
         <h4>Watch the NovaKeys showcase video.</h4>
 
         <div class="video-container w-45vw w-min-250 ratio ratio-16x9 mx-auto">
-            <iframe src="https://www.youtube.com/embed/4oAS-HqUiNI" 
+            <iframe src="https://www.youtube.com/embed/OzfXaMN4d34" 
                     title="Novakeys Showcase Video" 
                     frameborder="0" 
                     allowfullscreen>
@@ -44,8 +44,22 @@ h4 {
 }
 
 .video-container {
-    background-color: #462e9e;
+    background-color: #462e9e !important;
     border-radius: 3px;
+    padding-bottom: 57.3% !important;
+    height: 0 !important;
+}
+
+@media (max-width: 1400px) {
+    .video-container {
+        padding-bottom: 58% !important;
+    }
+}
+
+@media (max-width: 700px) {
+    .video-container {
+        padding-bottom: 59.2% !important;
+    }
 }
 
 @media (max-width: 380px) {
@@ -65,6 +79,7 @@ h4 {
     .video-container {
         width: 80vw;
         margin-inline: 0px !important;
+        padding-bottom: 61% !important;
     }
 
     main {
