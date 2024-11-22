@@ -65,6 +65,10 @@
             <p><span class="color-purple">Database:</span> &nbsp; MySQL</p>
             <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, Owasp ZAP</p>
         </section>
+
+        <section>
+            <NovaKeysShowcase />
+        </section>
     </main>
     <FooterBar />
 </template>
@@ -72,12 +76,22 @@
 <script>
 import HeaderBar from './Header.vue';
 import FooterBar from './Footer.vue';
+import NovaKeysShowcase from './NovaKeysShowcase.vue';
 
 export default {
     name: 'ProjectsPage',
     components: {
         HeaderBar,
         FooterBar,
+        NovaKeysShowcase,
     },
 };
 </script>
+
+<style scoped>
+    @media (max-width: 300px) {
+        h3 {
+            font-size: 32px;
+        }
+    }
+</style>

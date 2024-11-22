@@ -58,4 +58,15 @@ export default {
         margin-top: 24px;
     }
 }
+
+@media (max-width: 330px) {
+    .header-item {
+        font-size: 12px;
+    }
+
+    #links-container {
+        gap: 20px;
+        margin-top: 27px;
+    }
+}
 </style>

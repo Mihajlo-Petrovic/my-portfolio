@@ -58,3 +58,11 @@ export default {
     },
 };
 </script>
+
+<style scoped>
+    @media (max-width: 300px) {
+        h3 {
+            font-size: 32px;
+        }
+    }
+</style>
