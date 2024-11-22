@@ -36,7 +36,7 @@
                 <span class="color-purple">Top-Up System:</span> Users can top up their accounts by paying at any physical exchange office or bank. The funds are credited to the user’s account once the payment is confirmed. Once the funds are credited to the user's account, they can use them to make purchases and get products instantly.
             </p>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
-                <span class="color-purple">Payment Options Bridging the Gap:</span> Novakeys primarily serves the Serbian market, providing localized payment methods, bridging the gap for users who typically would not have access to digital marketplaces due to limited payment options. Also, NovaKeys supports international payments through credit and debit cards.
+                <span class="color-purple">Localized and International Payment Options:</span> Novakeys primarily serves the Serbian market, providing localized payment methods, bridging the gap for users who typically would not have access to digital marketplaces due to limited payment options. Also, NovaKeys supports international payments through credit and debit cards.
             </p>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
                 <span class="color-purple">Automatic Emails:</span> Automated emails notify both users and sellers about key actions, such as orders, account notifications, and other relevant platform activities.
