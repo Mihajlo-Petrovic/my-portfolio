@@ -7,6 +7,7 @@
             <router-link to="/contact-me" class="header-item">Contact Me</router-link>
         </div>
     </div>
+    <div id="header-placeholder"></div>
 </template>
 
 <script>
@@ -21,6 +22,13 @@ export default {
     height: 70px;
     display: flex;
     width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#header-placeholder {
+    height: 70px;
 }
 
 #links-container {

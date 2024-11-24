@@ -3,7 +3,7 @@
         <h4>Watch the NovaKeys showcase video.</h4>
 
         <div class="video-container w-45vw w-min-250 ratio ratio-16x9 mx-auto">
-            <iframe src="https://www.youtube.com/embed/OzfXaMN4d34" 
+            <iframe src="https://www.youtube.com/embed/OzfXaMN4d34?vq=1080" 
                     title="Novakeys Showcase Video" 
                     frameborder="0" 
                     allowfullscreen>
