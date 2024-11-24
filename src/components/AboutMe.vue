@@ -15,7 +15,7 @@
             <section class="mb-140">
                 <h3 class="fw-bold mb-5">Skills</h3>
 
-                <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript, Vue.js, BootStrap</p>
+                <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript, Vue.js, Bootstrap</p>
                 <p><span class="color-purple">Backend:</span> &nbsp; PHP, Laravel, C#</p>
                 <p><span class="color-purple">Databases:</span> &nbsp; MySQL, MariaDB</p>
                 <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, Owasp ZAP</p>
