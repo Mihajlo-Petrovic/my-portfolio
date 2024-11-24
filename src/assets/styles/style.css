@@ -3,6 +3,7 @@ body {
     font-family: Inter;
     font-weight: 800;
     color: #1e1738;
+    overscroll-behavior: none !important;
 }
 
 main {

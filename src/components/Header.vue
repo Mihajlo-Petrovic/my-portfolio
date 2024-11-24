@@ -22,7 +22,7 @@ export default {
     height: 70px;
     display: flex;
     width: 100%;
-    position: absolute;
+    position: absolute !important;
     top: 0px;
     left: 0px;
 }
@@ -54,6 +54,12 @@ export default {
 
 .router-link-active {
     color: #b7a7ff;
+}
+
+@media (orientation: portrait) {
+    #header {
+        position: fixed !important;
+    }
 }
 
 @media (max-width: 450px) {
