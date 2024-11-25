@@ -62,7 +62,7 @@
             <h3 class="fw-bold mb-5">Technologies Used - NovaKeys</h3>
             <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript</p>
             <p><span class="color-purple">Backend:</span> &nbsp; PHP, Laravel</p>
-            <p><span class="color-purple">Database:</span> &nbsp; MySQL</p>
+            <p><span class="color-purple">Database:</span> &nbsp; MariaDB</p>
             <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, Owasp ZAP</p>
         </section>
 
