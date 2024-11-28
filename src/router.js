@@ -5,7 +5,7 @@ import ProjectsPage from './components/Projects.vue';
 import ContactMe from './components/ContactMe.vue';
 
 const routes = [
-  { path: '/', component: HomePage, meta: { title: 'Mihajlo Petrović - Backend Web Developer' } },
+  { path: '/', component: HomePage, meta: { title: 'Mihajlo Petrović - Full-Stack Web Developer' } },
   { path: '/about-me', component: AboutMe, meta: { title: 'About Me' }, },
   { path: '/projects', component: ProjectsPage, meta: { title: 'Projects' }, },
   { path: '/contact-me', component: ContactMe, meta: { title: 'Contact Me' }, },
