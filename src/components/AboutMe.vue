@@ -18,14 +18,14 @@
                 <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript, Vue.js, Bootstrap</p>
                 <p><span class="color-purple">Backend:</span> &nbsp; PHP, Laravel, C#, .NET</p>
                 <p><span class="color-purple">Databases:</span> &nbsp; MySQL, MariaDB, Microsoft SQL Server</p>
-                <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, Owasp ZAP</p>
+                <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, OWASP ZAP</p>
             </section>
 
             <section class="mb-140">
                 <h3 class="fw-bold mb-5">More About Me</h3>
 
                 <p class="fs-6 w-800 w-max-100 mx-auto">
-                    I am a passionate and driven backend developer currently pursuing a degree in Applied Information Technologies at MEF University. 
+                    I am a passionate and driven full-stack developer currently pursuing a degree in Applied Information Technologies at MEF University. 
                     I began my journey into development at a young age, learning through self-driven projects and academic coursework. 
                     My education at the High School of Electrical Engineering "Rade Končar" laid the foundation for my knowledge of information technologies, 
                     and since then, I’ve been continuously expanding my skill set. In my early years, I created games using C# in Unity, exploring AI and game 
