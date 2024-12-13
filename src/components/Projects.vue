@@ -66,8 +66,12 @@
             <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, OWASP ZAP</p>
         </section>
 
-        <section>
+        <section class="mb-140">
             <NovaKeysShowcase />
+        </section>
+
+        <section>
+            <a class="btn-purple mx-auto" href="https://github.com/MihajloPetrovicDev" target="_blank">My GitHub</a>
         </section>
     </main>
     <FooterBar />
