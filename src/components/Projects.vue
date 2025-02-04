@@ -13,8 +13,8 @@
                 were more feature-rich, but none were particularly professional or large-scale, mostly small tools and prototypes.           
             </p>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
-                However, the most significant project I've worked on is <span class="color-purple">NovaKeys</span>, a fully-featured digital marketplace that is by far my most complex and professional 
-                work to date.
+                However, the 2 that stand out are <span class="color-purple">NovaKeys</span> - a fully-featured digital marketplace that is by far my most complex and professional 
+                work to date, and <span class="color-purple">sklopi</span> - a feature rich PC builder that makes PC building easier and cheaper.
             </p>
         </section>
 
@@ -68,6 +68,40 @@
 
         <section class="mb-140">
             <NovaKeysShowcase />
+        </section>
+
+        <section class="mb-140">
+            <h3 class="fw-bold mb-5">sklopi - A Feature Rich PC Builder</h3>
+            <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
+                <span class="color-purple">Add the Build Components:</span> The user is free to create any component he wants.
+            </p>
+            <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
+                <span class="color-purple">Enter the Component Buy Links:</span> Add the links for where the component can be bought along with the pricing info.
+            </p>
+            <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
+                <span class="color-purple">Assign the Buy Link Delivery Group:</span> The user can create a new delivery group or assign an existing one to the buy link, the delivery group also tracks if, and at witch point, the delivery group's cost becomes free.
+            </p>
+            <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
+                <span class="color-purple">Just Order:</span> sklopi will take the everything into account and display the best combination of buy links, along with the component prices and the total delivery price too.
+            </p>
+            <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
+                <span class="color-purple">Want to Save More?:</span> You can make buy links for similar components from multiple stores, and thus make it more likely that sklopi can find a cheaper match according to the component prices and the delivery cost, for example you can add multiple SSD models of similar performance and capacity.
+            </p>
+            <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
+                <span class="color-purple">Not Sure What to Get?:</span> You can create and have multiple builds on your account, so you can compare and decide what is best for you with all the information calculated for you.
+            </p>
+        </section>
+
+        <section class="mb-90">
+            <h3 class="fw-bold mb-5">Technologies Used - sklopi</h3>
+            <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript, Bootstrap</p>
+            <p><span class="color-purple">Backend:</span> &nbsp; PHP, Laravel</p>
+            <p><span class="color-purple">Database:</span> &nbsp; MySQL</p>
+            <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, OWASP ZAP, DigitalOcean</p>
+        </section>
+
+        <section class="mb-140">
+            <a class="btn-purple mx-auto" href="https://sklopi.live" target="_blank">Go to sklopi.live</a>
         </section>
 
         <section>
