@@ -71,7 +71,7 @@
         </section>
 
         <section class="mb-140">
-            <h3 class="fw-bold mb-5">sklopi - A Feature Rich PC Builder</h3>
+            <h3 class="fw-bold mb-5">sklopi - A Feature-Rich PC Builder</h3>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
                 <span class="color-purple">Add the Build Components:</span> The user is free to create any component he wants.
             </p>
@@ -82,7 +82,7 @@
                 <span class="color-purple">Assign the Buy Link Delivery Group:</span> The user can create a new delivery group or assign an existing one to the buy link, the delivery group also tracks if, and at witch point, the delivery group's cost becomes free.
             </p>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
-                <span class="color-purple">Just Order:</span> sklopi will take the everything into account and display the best combination of buy links, along with the component prices and the total delivery price too.
+                <span class="color-purple">Just Order:</span> sklopi will take everything into account and display the best combination of buy links, along with the component prices and the total delivery price.
             </p>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
                 <span class="color-purple">Want to Save More?:</span> You can make buy links for similar components from multiple stores, and thus make it more likely that sklopi can find a cheaper match according to the component prices and the delivery cost, for example you can add multiple SSD models of similar performance and capacity.

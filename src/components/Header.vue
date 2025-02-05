@@ -25,6 +25,7 @@ export default {
     position: absolute !important;
     top: 0px;
     left: 0px;
+    z-index: 10;
 }
 
 #header-placeholder {

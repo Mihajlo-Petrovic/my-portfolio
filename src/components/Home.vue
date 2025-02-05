@@ -3,9 +3,10 @@
     <h1 class="display-2 text-start fw-normal"><span class="color-purple fw-bold">Hello,</span><br>I am <span class="fw-bold">Mihajlo Petrović.</span></h1>
     <h3 class="fs-3 text-start fw-bold color-purple">Full-Stack Web Developer</h3>
     <p class="text-start fw-bold mt-90 w-600 w-max-85">
-      I am a full-stack developer with a strong foundation in building web applications. Currently, I’m working on launching 
-      NovaKeys, my first platform for purchasing digital goods, which will feature localized 
-      payment options, multi language support, multiple display currencies, a referral code system and much more, solving key challenges in the local digital marketplace.
+      I am a full-stack developer with a strong foundation in building web applications. I enjoy working on projects that solve real problems. Currently, 
+      I’m working on launching NovaKeys, my first platform for purchasing digital goods, which will feature localized payment options, multi language support, 
+      multiple display currencies, a referral code system and much more, solving key challenges in the local digital marketplace. Also I just launched sklopi, 
+      a PC builder website that makes PC building easier and more affordable.
     </p>
 
     <div id="page-links-container" class="mt-230 d-flex gap-4 mx-auto w-fc w-max-100 flex-wrap mb-90">

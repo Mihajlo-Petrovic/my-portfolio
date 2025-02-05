@@ -1,5 +1,5 @@
 <template>
-    <p class="mt-120">&copy; 2024 Mihajlo Petrović. All rights reserved.</p>
+    <p class="mt-120">&copy; 2025 Mihajlo Petrović. All rights reserved.</p>
 </template>
 
 <script>
