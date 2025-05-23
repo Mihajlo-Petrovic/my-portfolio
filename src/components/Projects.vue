@@ -97,7 +97,8 @@
             <p><span class="color-purple">Frontend:</span> &nbsp; HTML, CSS, JavaScript, Bootstrap</p>
             <p><span class="color-purple">Backend:</span> &nbsp; PHP, Laravel</p>
             <p><span class="color-purple">Database:</span> &nbsp; MySQL</p>
-            <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, OWASP ZAP, DigitalOcean</p>
+            <p><span class="color-purple">Tools:</span> &nbsp; Postman, Git, OWASP ZAP</p>
+            <p><span class="color-purple">Hosting:</span> &nbsp; DigitalOcean</p>
         </section>
 
         <section class="mb-140">
