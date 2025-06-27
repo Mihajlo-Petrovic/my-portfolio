@@ -4,17 +4,17 @@
         <section class="mb-140">
             <h3 class="fw-bold mt-90 mb-5">Projects</h3>
             <p class="fs-6 w-800 w-max-100 mx-auto">
-                Over the years, I’ve worked on a variety of projects that range from small, functional apps to more complex systems. 
-                These smaller projects were stepping stones in learning different technologies and approaches, each contributing to the skills I apply today. 
-                When I was in middle school I created two complete games in C# Unity, with some complex AI components. There were also a few unfinished games, 
-                where I explored new game mechanics and AI, refining my skills in C#. During high school I developed numerous small web and desktop applications. 
-                These include school apps, blog pages, and calculators, as well as more interesting projects like an anti-bullying blog site built in plain PHP 
-                for a competition. Other apps were created in C# .NET and PHP, such as commercial applications and rental apps. While some were simple, others 
-                were more feature-rich, but none were particularly professional or large-scale, mostly small tools and prototypes.           
+                Over the years, I’ve worked on a variety of projects that range from small, functional apps to more complex applications. 
+                These smaller projects were stepping stones in learning different technologies and approaches, each contributing to the 
+                skills I apply today. When I was in middle school, I created two complete games in Unity with C#. There were also a few 
+                unfinished games where I explored new game mechanics and NPC AI, refining my skills in C#. During high school, I developed 
+                numerous small web and desktop applications. These include school apps, blog pages, and calculators, as well as more 
+                interesting projects like an anti-bullying blog site built in plain PHP for a competition. Other apps were created in C# 
+                .NET and PHP, such as dummy commercial and rental applications. While some were simple, others were more feature-rich, but 
+                none were particularly professional or large-scale, mostly small tools and prototypes.
             </p>
             <p class="fs-6 mt-4 w-800 w-max-100 mx-auto">
-                However, the 2 that stand out are <span class="color-purple">NovaKeys</span> - a fully-featured digital marketplace that is by far my most complex and professional 
-                work to date, and <span class="color-purple">sklopi</span> - a feature rich PC builder that makes PC building easier and cheaper.
+                However, the 2 that stand out are <span class="color-purple">NovaKeys</span> - a fully-featured digital marketplace, and <span class="color-purple">sklopi</span> - a feature-rich PC builder that makes PC building easier and cheaper.
             </p>
         </section>
 

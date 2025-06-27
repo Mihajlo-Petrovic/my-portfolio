@@ -23,7 +23,7 @@
             <button class="mx-auto btn-purple mt-5 pt-0 border-0 mb-300 fw-bold" type="submit">Send</button>
         </form>
 
-        <p class="w-700 w-max-100 mx-auto mt-120">You can also contact me trough my personal email directly: <span class="color-purple">petrovicmihajlo789@gmail.com</span>, or if you have business inquires about NovaKeys: <span class="color-purple">business@novakeys.net</span></p>
+        <p class="w-700 w-max-100 mx-auto mt-120">You can also contact me trough my personal email directly: <span class="color-purple">petrovicmihajlo789@gmail.com</span></p>
     </main>
     <FooterBar />
 </template>

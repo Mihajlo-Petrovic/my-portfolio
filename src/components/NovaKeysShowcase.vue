@@ -62,7 +62,7 @@ h4 {
     }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 450px) {
     #novakeys-showcase-container {
         border-radius: 0px;
         width: 101vw;

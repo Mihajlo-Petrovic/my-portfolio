@@ -3,13 +3,14 @@
     <h1 class="display-2 text-start fw-normal"><span class="color-purple fw-bold">Hello,</span><br>I am <span class="fw-bold">Mihajlo Petrović.</span></h1>
     <h3 class="fs-3 text-start fw-bold color-purple">Full-Stack Web Developer</h3>
     <p class="text-start fw-bold mt-90 w-600 w-max-85">
-      I am a full-stack developer with a strong foundation in building web applications. I enjoy working on projects that solve real problems. Currently, 
-      I’m working on launching NovaKeys, my first platform for purchasing digital goods, which will feature localized payment options, multi language support, 
-      multiple display currencies, a referral code system and much more, solving key challenges in the local digital marketplace. Also I just launched sklopi, 
-      a PC builder website that makes PC building easier and more affordable.
+      I enjoy designing normalized relational database schemas that are flexible and scalable for potential changes down the road. I enjoy designing the 
+      architecture of an application, thinking about how its components will interact with each other, what is the best and most widely used, and thus, 
+      the most easily understandable approach, how to keep coupling low and cohesion high, how would I design this to allow for easier changes later. 
+      Really, to put it simply, I enjoy solving real-world problems, while thinking about how the users and fellow developers will interact with the 
+      application.
     </p>
 
-    <div id="page-links-container" class="mt-230 d-flex gap-4 mx-auto w-fc w-max-100 flex-wrap mb-90">
+    <div id="page-links-container" class="mt-200 d-flex gap-4 mx-auto w-fc w-max-100 flex-wrap mb-90">
       <router-link to="/about-me" class="btn-purple">About Me</router-link>
       <router-link to="/projects" class="btn-purple">Projects</router-link>
       <router-link to="/contact-me" class="btn-purple">Contact Me</router-link>
