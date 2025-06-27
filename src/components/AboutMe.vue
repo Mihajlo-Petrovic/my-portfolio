@@ -34,7 +34,7 @@
                 <p class="fs-6 w-800 w-max-100 mx-auto">
                     I am a passionate and driven full-stack developer currently pursuing a degree in Applied Information Technologies at MEF 
                     University. I began my journey into software development at a young age, learning through personal projects and academic 
-                    coursework. When I was in middle school, I started making games using C# in Unity. These games sparked my interest in 
+                    coursework. When I was in middle school, I started making games in Unity with C#. These games sparked my interest in 
                     programming, and over the years, I’ve developed a wide range of web and desktop applications. My education at the High 
                     School of Electrical Engineering "Rade Končar" laid a solid foundation for my knowledge of software development, and since 
                     then, I’ve been continuously expanding my skill set. With my recent projects, I’ve gained experience working with backend 

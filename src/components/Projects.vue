@@ -6,7 +6,7 @@
             <p class="fs-6 w-800 w-max-100 mx-auto">
                 Over the years, I’ve worked on a variety of projects that range from small, functional apps to more complex applications. 
                 These smaller projects were stepping stones in learning different technologies and approaches, each contributing to the 
-                skills I apply today. When I was in middle school, I created two complete games in Unity with C#. There were also a few 
+                skills I apply today. When I was in middle school, I made two complete games in Unity with C#. There were also a few 
                 unfinished games where I explored new game mechanics and NPC AI, refining my skills in C#. During high school, I developed 
                 numerous small web and desktop applications. These include school apps, blog pages, and calculators, as well as more 
                 interesting projects like an anti-bullying blog site built in plain PHP for a competition. Other apps were created in C# 
