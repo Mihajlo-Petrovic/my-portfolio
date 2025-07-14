@@ -5,10 +5,10 @@
             <section class="mb-140">
                 <h3 class="fw-bold mt-90 mb-5">Education</h3>
 
-                <p class="mb-1 fs-5">High School of Electrical Engineering "Rade Končar" (2020-2024)</p>
+                <p class="mb-1 fs-5">High School of Electrical Engineering "Rade Končar" (2020 - 2024)</p>
                 <p class="mt-1 fs-6 color-purple">Electrotechnician of Information Technologies</p>
 
-                <p class="mt-4 mb-1 fs-5">MEF University (2024-Now)</p>
+                <p class="mt-4 mb-1 fs-5">MEF University (2024 - Present)</p>
                 <p class="mt-1 fs-6 color-purple">Applied Information Technologies</p>
             </section>
 
@@ -24,8 +24,11 @@
             <section class="mb-140">
                 <h3 class="fw-bold mb-5">Experience</h3>
 
-                <p class="mb-1 fs-5">Wargaming Group Limited (2.5 Months)</p>
+                <p class="mb-1 fs-5">Wargaming Group Limited (March 2025 - May 2025)</p>
                 <p class="mt-1 fs-6 color-purple">Backend Engineering Early Careers Program</p>
+
+                <p class="mb-1 fs-5">Akvelon (July 2025 - Present)</p>
+                <p class="mt-1 fs-6 color-purple">Full-Stack .NET Internship</p>
             </section>
 
             <section class="mb-140">
